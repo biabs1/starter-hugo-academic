@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/biabs1/biabs1.github.io
+	branch = master
